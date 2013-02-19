@@ -1,6 +1,6 @@
 # homebrew-libsodium
 
-This repository contains libsodium, the portable [nacl] library as formulae for [Homebrew]
+This repository contains [libsodium](https://github.com/jedisct1/libsodium), the portable [nacl](http://nacl.cr.yp.to) library as formulae for [Homebrew](http://mxcl.github.com/homebrew)
 
 ## Installing
 
